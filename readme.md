@@ -12,6 +12,7 @@
 ```
 curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer'
 ```
+ - Execute sudo apt-get install php-pgsql
  - Clone o projeto dentro de /var/www/html
 
 ### Geral
